@@ -2,3 +2,4 @@ streamlit
 speechrecognition
 streamlit-mic-recorder
 pydub
+plotly
